@@ -7,7 +7,7 @@ if EXIST "Control Panel.{21EC2020-3AEA-1069-A2DD-08002B30309D}" goto UNLOCK
 if NOT EXIST Private goto MDENTER PASSWORD TO OPEN
 :CONFIRM
 echo -----------------------------------------------------------
-echo ================== Www.hackingtech.co.tv ==================
+echo ======================= TheBlackH4t =======================
 echo -----------------------------------------------------------
 echo Are you sure you want to lock the folder(Y/N)
 echo Press (Y) for Yes and Press (N) for No.
@@ -26,7 +26,7 @@ echo Folder locked
 goto End
 :UNLOCK
 echo -----------------------------------------------------------
-echo ================== Www.hackingtech.co.tv ==================
+echo ======================= TheBlackH4t =======================
 echo -----------------------------------------------------------
 echo Enter password to unlock folder 
 set/p "pass=>"
